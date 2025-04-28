@@ -14,7 +14,8 @@
 * **ATL_CTP_genes_general_characterization.ipynb**: Fig. 6
 * **ATL_CPT_genes_ExpressionVisualization.ipynb**: Fig. 7, Suppl. Fig. 7A, Suppl. Fig. 8, Suppl. Fig. 8, Suppl. Fig. 9
 * **ATL_ExpressedAllelicPairs.ipynb**: to generate list of expressed allelic pairs, used as input in ATL_AllelicGroupRhythmicity.ipynb, ATL_CorrelationAnalyses.ipynb, Atlv3_vs_Atlv3_CoGe.ipynb to generate Fig. 3
-
+* **syntelog_filter.ipynb**: Filters the initial list of Syntelogs to obtain the high-confidence syntelog list used for downstream analysis. Based on Python 3.9.18
+* **atl_haplotype_pair_correlation_calculator.ipynb**: to calculate the pair-wise correlations of all alleles within allelic pairs genome-wide for timecourse, tissue, and stress datasets. Based on Python 3.9.18 with scipy 1.11.3
 
 
 
