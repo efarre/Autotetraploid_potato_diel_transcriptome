@@ -2,7 +2,7 @@
 
 ## For submission: https://www.biorxiv.org/content/10.1101/2025.04.22.650056v1
 
-### List of jupyter lab notebooks and respective figure outputs: 
+### List of jupyter lab notebooks and respective figure outputs generate with R version 4.3.1: 
 
 * **ATL_AllelicGroupRhythmicity.ipynb**: Fig. 1, Fig. 2A, Fig. 3A, Suppl. Fig. 1A, Suppl. Fig. 1B, Suppl. Fig. 1C
 * **ATL_FunctionalEnrichmentPlots_diel.ipynb**: Fig 2B, Fig. 2C, Fig 5D, Suppl. Fig. 3
