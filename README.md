@@ -1,1 +1,1 @@
-# Atlantic_diel_allele_spec
+# Autotetraploid potato diel transcriptome analysis
