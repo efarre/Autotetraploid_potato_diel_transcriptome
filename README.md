@@ -13,7 +13,7 @@
 * **ATL_ExpressionVisualization.ipynb**: Fig. 5E, Suppl. Fig. 4B, Suppl. Fig. 4C
 * **ATL_CTP_genes_general_characterization.ipynb**: Fig. 6
 * **ATL_CPT_genes_ExpressionVisualization.ipynb**: Fig. 7, Suppl. Fig. 7A, Suppl. Fig. 8, Suppl. Fig. 8, Suppl. Fig. 9
-
+* **ATL_ExpressedAllelicPairs.ipynb**: to generate list of expressed allelic pairs, used as input in ATL_AllelicGroupRhythmicity.ipynb, ATL_CorrelationAnalyses.ipynb, Atlv3_vs_Atlv3_CoGe.ipynb to generate Fig. 3
 
 
 
